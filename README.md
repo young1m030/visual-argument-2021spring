@@ -1,58 +1,7 @@
-# Project 2: Visual Argument / Rhetorical Collage
+Hi all! Thank you for taking the time to look at my draft. For this argument preview, I chose to focus on some of the images I want to pull from for my final and play around with some different effects, though I’m not married to anything I have right now. For the background, I’m thinking I want the road ahead to look dark, potentially stormy, to represent post-graduation when loans start accumulating more interest and what not, and just the challenges with them after graduation. To initiate that idea, I decided to play around with a gradient and have the top half become darker, but I would love to learn of a more interesting way to do this.
 
-Your task in this unit is to **make a rhetorical claim through the juxtaposition of images and text.** It's kind of a collage, but a collage with an argument to make. In assigning this, I have two main goals for you: (1) to learn how to ethically obtain images and edit them using digital tools, and (2) to explore the affordances of still images as a medium, and especially their ability to _direct attention_ and _help make ideas memorable_.
+I also selected the outline of the grads throwing their cap in the air for a layer. I decided to fill in the shape with black, because I think that’s more conducive to what I want to do with my text and indicate that millions of people take out loans. I’m open to playing around with other ways to fill those outlines, maybe with some kind of representation of how much money people take out, or a visual statistic like the one example we saw. I would love to get some feedback on this aspect!
 
-As with the sound project, the context for your argument is open: you could be making a social commentary, calling for action, constructing a parody, riffing on a pun, explaining a concept, inviting someone inside, and so on. Whatever you choose, you should consider your audience and what they would find persuasive or interesting, and how you therefore wish to attract and direct their attention.
+The only other image layers I have right now are two road barriers, which are supposed to replicate the way loans can alter a trajectory post-graduation, maybe even going so far as to completely limit certain possibilities. I’m thinking that would be a more interesting place to lay down some visual representation of some stats, but I’m hesitant because they cover such a small surface area.
 
-As you start planning your composition, consider: What ideas do *you* want help remembering? Or what do you want to persuade others of? Is there something you've noticed that you want to bring to the attention of others? See if any terms or images come to mind when you think of your subject, then work back and forth from image to word and back.
-
-## Generative constraints
-
-**Baseline Criteria** \
-_To be updated in lesson 12_ \
-For a minimum grade of B, all projects for this unit must…
-
-* Guide viewers' attention using at least one design strategy among Dominance & Hierarchy (strong contrasts), Positive/Negative space, or Rhythm & Movement
-* Have a clear message or intervention that you can articulate
-* If including words, choose a font that matches the style/tone of your piece
-* If not using words, clarify your message and this choice in the reflection
-* For all of the above, explain your choices in the reflection
-* Credit all assets correctly, including attribution (creator names) where required
-* Use at least 3 layers
-* Use at least 1 tool beyond select, move, and text
-
-
-**Aspirational Inspirations** \
-To target (but not guarantee) a grade above a B, the best projects for this unit may…
-
-* Use multiple design strategies in ways that compliment each other (whether to reinforce a single shared focus or to add nuance / surprise down the hierarchy)
-* Have a clear message/focus that others can articulate without your text (as shown in their feedback)
-* Use more than 3 tools (beyond select, move, and text) that are new to you
-* If using multiple fonts, use fonts that pair well (explained via reference to readings)
-* Organize the canvas toward simple, minimalist design (slogan/headline, not paragraphs)
-* Organize your files through layer labeling, layer groups, repo structure
-* Use meaningful commit messages that say what’s changing (and maybe even why)
-
-
-
-## Deadlines and products
-At each stage, unless otherwise specified, upload (push) your materials to your own copy of this assignment repository. I recommend that you **save often, using meaningful commit messages**; for best results, please keep your filenames clear, lowercase, and space-free (use hyphens or underscores).
-
-If you are using Box, please nevertheless share a link to your Box folder prominently in your GitHub repository.
-
-| date | what's due | expected files |
-|----|----|----|
-| Thurs 2/25 | Rhetorical Collage Proposal | Think in writing about what you'd like to do for this assignment. (And if you're stuck, see the <a href="#parachute-prompts">"parachute prompts"</a> below.)<ul><li> Post to the appropriate Issue Queue with your <strong>proposal</strong>, suggesting in prose the idea or appeal you're hoping to make.</li><li>In the same post, or as a separate file called assets.md, include a <strong>prospective assets chart</strong> (see <em>Writer/Designer</em> p. 149) naming what images you'll need to obtain.</li><li>Please also <strong>link</strong> to your repository in your post.</li></ul> |
-| Tues 3/2 | Rhetorical Collage Preview | An early snapshot of your progress, to get the gears turning. Turn in: <ul><li> A layered <strong>GIMP project file (.xcf)</strong>, showing the arrangement of your images and text so far (need not be a complete argument or collage yet).</li><li> A static <strong><a href="https://www.take-a-screenshot.org/">screenshot</a> (.png or .jpg)</strong> of your GIMP file in progress (for comparison later to subsequent drafts).</li><li>A "flat" <strong>export in the .png file format</strong> of your most up-to-date rhetorical collage. (For more on .png vs .jpg, see this <a href="https://www.techsmith.com/blog/jpg-vs-png/">overview</a> or this more <a href="https://www.digitaltrends.com/photography/jpeg-vs-png/">technical explanation</a>.)</li><li> A plain text (.txt) or markdown (.md) file, explaining in at least 300 words <strong>what you're showing us</strong> in this preview. Feel free also to ask questions or lay out next steps for yourself!</li><li> An updated <strong>assets.md</strong> file, now with the files you actually recorded or otherwise obtained. As you go, add source documentation for any outside sources – and your permission to use them (e.g. licenses, fair use; see <em>Writer/Designer</em> p. 160-165).</li></ul> |
-| Thurs 3/4 | Rhetorical Collage Draft | A solid attempt at a complete Visual Argument / Rhetorical Collage. Turn in:<ul><li>A layered <strong>GIMP project file (.aup)</strong>, showing the arrangement of your images and any layer effects so far</li><li>At least one more static <strong><a href="https://www.take-a-screenshot.org/">screenshot</a> (.png or .jpg)</strong> of your GIMP file in progress. <ul><li>Think about what moments are worth remembering as you go: where did you level up, or realize something, or get stuck?</li></ul></li><li>An <strong>updated README.md file</strong>, introducing the Visual Rhetorical Argument to a new audience.</li><li>An <strong>updated assets.md file</strong> – or rename it CREDITS.md, or put it in your README.md – including documentation of any outside sources, and your permission to use them (e.g. licenses, fair use); see <em>Writer/Designer</em> p. 160-165.</li><li>Another "flat" <strong>export in the .png file format</strong> of your most up-to-date rhetorical collage.</li></ul>  |
-| Sun 3/14, at 11:59pm | Rhetorical Collage Final Draft (target) | Include the same components as in the earlier draft, but updated. |
-| Tues 3/16 | Rhetorical Collage Reflection | Give a sense of the work you put into your Visual Argument project and whether it accomplishes what you wanted it to. Turn in: <ul><li>at least 500 words describing the work you did</li><li>at least two screenshots showing your work in progress</li><li>at least one screenshot of feedback that you responded to in revising (and please say how)</li><li>your own assessment of how you met the baseline criteria for the class, as well as aspirational criteria as appropriate </li></ul> <strong>Post your reflections to the course site's <a href="https://github.com/benmiller314/cdm2021spring/issues">Issue queue</a></strong>, to make it easier to embed images. (If you want to then copy the source code into a file in your repo called reflections.md, I won't stop you!) |
-
-## Parachute Prompts
-
-If you find yourself coming up on proposal day and you're not sure what to propose, try one of these:
-
-1. _Illuminate a Word_. Choose one word to be the centerpiece of your canvas, and show us what it denotes, what it connotes, what associations the word brings in. Use any effects, colors, textures you want, but make sure the word itself is still legible – and don't use any other words. (This assignment is based on one mentioned by Madeline Sorapure in ["Playing Lev Manovich"](http://kairos.technorhetoric.net/8.2/coverweb/sorapure/); to see examples, open that link with Firefox and jump to Automation > Examples. If Flash has died already, and no emulator is yet available – Kairos is working on it, I hear – there are also [these other examples](https://www.kid-at-art.com/htdoc/members/lesson70.html).)
-2. _Advertise a Course_. Think about the classes you've taken that are under-appreciated, maybe even at risk of being under-enrolled. Create *either* an 8.5x11" print flier *or* a 16:9 ratio digital poster to be distributed around the hallways, bulletin boards, and/or tables of the university, alerting people to the awesomeness that would ensue if they enroll in that course. (You've probably seen some professors' attempts at these; they're all over the English department, at least, and on the screens in the G-level elevator lobby of the Cathedral.) Include the course title and a brief description; you can skip the date and time, or make one up.
-
-And if your parachute is malfunctioning (e.g. you need even more specific direction), just let me know. We can probably figure something out in [office hours](http://benmiller314.youcanbook.me).
+Since Tuesday, I started adding some text layers and playing around with fonts. I like the idea of having the $29,000 figure really loom ahead or to echo the emotion created by the physical barriers. I don't know how else to do that in this moment besides making it really big lol. I saw some pictures online where people have their text kind of blend into the image, so I'm definitely going to try to figure that out. Definitely open to other ideas on this as well!
